@@ -30,16 +30,18 @@ body {
 .section {
   height: 450px;
   width: 100%;
-<<<<<<< HEAD
-=======
   margin-top: 20px;
->>>>>>> cf5212b (Add bottom section)
   display: flex;
   justify-content: center;
   align-items: center;
   border: 1px solid black;
-<<<<<<< HEAD
 }
-=======
+
+.section {
+  height: 450px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
 }
->>>>>>> cf5212b (Add bottom section)
